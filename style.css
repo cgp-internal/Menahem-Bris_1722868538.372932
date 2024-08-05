@@ -1,0 +1,28 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #00698f;
+}
+
+p {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+AINER {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.styles {
+  font-weight: bold;
+  color: #00698f;
+}
